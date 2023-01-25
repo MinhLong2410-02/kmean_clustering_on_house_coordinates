@@ -14,3 +14,8 @@ Sau khi cào dữ liệu về sẽ được lưu vào file txt các địa chỉ
 - Sử dụng Selenium tự động hóa việc nhập địa chỉ từ file txt có sẵn rồi đưa lên thanh search của _google maps_ rồi ấn Enter
 
 ![Ảnh ví dụ](assets/example2.png)
+
+Từ đó, ta có 1 danh sách các tọa độ
+
+![Ảnh ví dụ](assets/example3.png)
+
