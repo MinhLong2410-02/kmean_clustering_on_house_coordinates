@@ -15,7 +15,7 @@ Sau khi cào dữ liệu về sẽ được lưu vào file txt các địa chỉ
 
 ![Ảnh ví dụ](assets/example2.png)
 
-Từ đó, ta có 1 danh sách các tọa độ
+Từ đó, ta có 1 danh sách các tọa độ để thực hiện Phân Cụm K-mean
 
 ![Ảnh ví dụ](assets/example3.png)
 
