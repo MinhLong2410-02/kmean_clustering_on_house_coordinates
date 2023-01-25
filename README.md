@@ -7,4 +7,6 @@ Dữ liệu địa chỉ nhà được cào từ web site nhatot.com
 - BeautifulSoup4 để parse code html
 - Sử dụng Selenium để lấy html của web (đây là web động)
 
-![Ảnh ví dụ](assets/example1.png)]()
+![Ảnh ví dụ](assets/example1.png)
+
+Sau khi cào dữ liệu về sẽ được lưu vào file txt các địa chỉ. Các địa chỉ này sau đó sẽ được đưa lên _google maps_ để thực hiện việc trích xuất tọa độ
