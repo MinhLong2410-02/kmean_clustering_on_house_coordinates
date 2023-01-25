@@ -10,3 +10,7 @@ Dữ liệu địa chỉ nhà được cào từ web site nhatot.com
 ![Ảnh ví dụ](assets/example1.png)
 
 Sau khi cào dữ liệu về sẽ được lưu vào file txt các địa chỉ. Các địa chỉ này sau đó sẽ được đưa lên _google maps_ để thực hiện việc trích xuất tọa độ
+
+- Sử dụng Selenium tự động hóa việc nhập địa chỉ từ file txt có sẵn rồi đưa lên thanh search của _google maps_ rồi ấn Enter
+
+![Ảnh ví dụ](assets/example2.png)
