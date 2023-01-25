@@ -1,0 +1,1 @@
+# kmean_clustering_on_house_coordinates
