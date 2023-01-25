@@ -7,4 +7,4 @@ Dữ liệu địa chỉ nhà được cào từ web site nhatot.com
 - BeautifulSoup4 để parse code html
 - Sử dụng Selenium để lấy html của web (đây là web động)
 
-![Ảnh ví dụ]("assets/example1")]()
+![Ảnh ví dụ](assets/example1)]()
